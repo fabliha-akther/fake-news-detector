@@ -131,7 +131,7 @@ fake-vs-real-news/
 
 ## License
 
-Open for academic and research use. For commercial purposes, please contact the author.
+Open for academic and research use.
 
 ---
 

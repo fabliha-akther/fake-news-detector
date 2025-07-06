@@ -1,0 +1,14 @@
+# Ignore data and virtual environment
+data/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Models and secrets
+*.xgb
+.env

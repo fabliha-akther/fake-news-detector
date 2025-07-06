@@ -142,7 +142,7 @@ Get the dataset on Kaggle:
 
 ---
 
-## Visuals (in `Images/`)
+## Visuals
 
 ### 1. Content Length vs Label
 ![Content Length vs Label](Images/content_length_vs_label.png)  

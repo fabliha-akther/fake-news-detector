@@ -157,7 +157,7 @@ Get the dataset on Kaggle:
 ---
 
 ### 3. SHAP Summary Plot
-![SHAP Summary Plot](Images/shap_summary_plot.png)  
+![SHAP Summary Plot](Images/shap_summary.png)  
 *SHAP summary plot showing top features influencing predictions.*
 
 ---

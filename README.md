@@ -142,32 +142,32 @@ Get the dataset on Kaggle:
 
 ---
 
-## Visuals (in `images/`)
+## Visuals (in `Images/`)
 
 ### 1. Content Length vs Label
-![Content Length vs Label](images/content_length_vs_label.png)  
+![Content Length vs Label](Images/content_length_vs_label.png)  
 *Distribution of content length across fake vs real news.*
 
 ---
 
 ### 2. Model Evaluation
-![Confusion Matrix](images/confusion_matrix.png)  
+![Confusion Matrix](Images/confusion_matrix.png)  
 *Confusion matrix showing model performance metrics.*
 
 ---
 
 ### 3. SHAP Summary Plot
-![SHAP Summary Plot](images/shap_summary_plot.png)  
+![SHAP Summary Plot](Images/shap_summary_plot.png)  
 *SHAP summary plot showing top features influencing predictions.*
 
 ---
 
 ### 4. SHAP Waterfall Plot
-![SHAP Waterfall Plot](images/shap_waterfall_plot.png)  
+![SHAP Waterfall Plot](Images/shap_waterfall_plot.png)  
 *Waterfall plot explaining how individual features affect a single prediction.*
 
 ---
 
 ### 5. SHAP Dependence Plot
-![SHAP Dependence Plot](images/shap_dependence_plot.png)  
+![SHAP Dependence Plot](Images/shap_dependence_plot.png)  
 *SHAP dependence plot showing feature interactions and their influence.*
